@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=fpga_hps_ddr_interface.SchDoc
+Record=SheetSymbol|SourceDocument=top level.SchDoc|Designator=U_FPGA|SchDesignator=U_FPGA|FileName=microcontroller_cortexM3.SchDoc|SymbolType=Normal|RawFileName=microcontroller_cortexM3.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=fpga_hps_ddr_interface.SchDoc|Designator=U_hps_dram_ddr3|SchDesignator=U_hps_dram_ddr3|FileName=hps_dram_ddr3.SchDoc|SymbolType=Normal|RawFileName=hps_dram_ddr3.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=petit_wireless_interface.SchDoc|Designator=U_petit_hdmi|SchDesignator=U_petit_hdmi|FileName=petit_hdmi_interface.SchDoc|SymbolType=Normal|RawFileName=petit_hdmi_interface.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
